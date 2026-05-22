@@ -4,7 +4,9 @@ const mainSwiper = new Swiper(".banner_wrap .slide_mask", {
   autoplay: {
     delay: 5000,
   },
-
+  pagination: {
+    el: ".pagi",
+  },
 });
 
 const bestSwiper = new Swiper(".best_wrap .slide_mask", {
