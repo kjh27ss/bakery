@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-size: 14px;
 }
 
 ul, ol {
@@ -16,6 +17,7 @@ a {
 img {
   display: block;
   width: 100%;
+  height: 100%;
 }
 
 body {
